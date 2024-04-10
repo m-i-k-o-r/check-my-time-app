@@ -1,6 +1,6 @@
-[submodule "check-my-time.Frontend"]
-	path = check-my-time.Frontend
-	url = https://github.com/m-i-k-o-r/check-my-time.Frontend.git
-[submodule "check-my-time.Backend"]
-	path = check-my-time.Backend
-	url = https://github.com/m-i-k-o-r/check-my-time.Backend.git
+[submodule "time-ahead-backend"]
+	path = time-ahead-backend
+	url = https://github.com/m-i-k-o-r/time-ahead-backend.git
+[submodule "time-ahead-frontend"]
+	path = time-ahead-frontend
+	url = https://github.com/m-i-k-o-r/time-ahead-frontend.git
