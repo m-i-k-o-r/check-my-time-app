@@ -1,3 +1,4 @@
+
 # Приложение "TimeAhead"
 ## Группа 9.6
 **Студенты:**
@@ -19,7 +20,9 @@
 -   Техническое Задание  [docx](https://github.com/m-i-k-o-r/check-my-time-app/blob/master/documentation/Техническое_Задание.docx)  [pdf](https://github.com/m-i-k-o-r/check-my-time-app/blob/master/documentation/Техническое_Задание.pdf)
 -  Оформление ТЗ  [pdf](https://github.com/m-i-k-o-r/check-my-time-app/blob/master/documentation/Оформление_Технического_Задания.pdf)
 -   Сопроводительное письмо  [docx](https://github.com/m-i-k-o-r/check-my-time-app/blob/master/documentation/Cопроводительное_письмо.docx)  [pdf](https://github.com/m-i-k-o-r/check-my-time-app/blob/master/documentation/Cопроводительное_письмо.pdf)
+- Курсовой проект (в разработке) [docx](https://github.com/m-i-k-o-r/time-ahead-app/blob/master/documentation/Курсовой%20проект.docx)  [pdf](https://github.com/m-i-k-o-r/time-ahead-app/blob/master/documentation/Курсовой%20проект.pdf)
 
 ##
 
 -   Презентация ТЗ  [pdf](https://github.com/m-i-k-o-r/check-my-time-app/blob/master/documentation/Презентация_Технического_Задания.pdf)  [pptx](https://github.com/m-i-k-o-r/check-my-time-app/blob/master/documentation/Презентация_Технического_Задания.pptx) [видео](https://disk.yandex.ru/i/zgZynkC7yY8BVg)
+- Видео-презентация проекта на 2 аттестацию [youtube](https://www.youtube.com/watch?v=aRtRwDHCDbY) [drive.google](https://drive.google.com/file/d/1sXwAmglVqORm-6M4LHxWHy1HKXmHPgOA/view)
